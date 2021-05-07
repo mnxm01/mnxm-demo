@@ -1,7 +1,7 @@
 <template>
 <div>
   <br>
-  <pre>    npm install live2d4vue</pre> 
+  <pre>    npm install mnxm-live2d-vue</pre> 
   <pre>
     handleMove(live2dModel) {
 
